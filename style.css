@@ -3,5 +3,6 @@
     color:antiquewhite
     display: flex;
     justify-content: space-around;
+    align-items: center;
 }
 
